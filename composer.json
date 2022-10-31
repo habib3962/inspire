@@ -1,0 +1,18 @@
+{
+    "name": "fhsinchy/inspire",
+    "description": "This is testing",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Habib Chauhan",
+            "email": "habib@itempire.org"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
